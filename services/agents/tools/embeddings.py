@@ -1,0 +1,1 @@
+"""Embeddings module — not used in cloud deployment (RAG is disabled)."""
